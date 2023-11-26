@@ -1,0 +1,127 @@
+:root{
+    --purple: #680747;
+    --pink: #ec729c;
+}
+.p{
+    color: var(--purple);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    width: 550px;
+    line-height: 3.3rem;
+    margin-left: 150px;
+}
+span{
+    color: gray;
+    font-size: 1.5rem;
+    margin-left: 150px;
+}
+.span{
+    color: gray;
+    font-size: 1.5rem;
+    margin-left: 150px;
+    margin-top: -2px;
+}
+#span{
+    color: gray;
+    font-size: 1.5rem;
+    margin-left: 150px;
+    margin-top: -25px;
+}
+.div2 {
+    margin-left: 50%;
+    margin-top: -250px;
+}
+.one{
+    color: var(--purple);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    background-color: #f8e7e7;
+    width: 500px;
+    height: 50px;
+    padding-top: 20px;
+    padding-left: 70px;
+    border-radius: 12px;
+}
+.two{
+    color: var(--purple);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    background-color: #f8e7e7;
+    width: 500px;
+    height: 50px;
+    padding-top: 20px;
+    padding-left: 70px;
+    border-radius: 12px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+}
+.three{
+    color: var(--purple);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    background-color: #f8e7e7;
+    width: 500px;
+    height: 50px;
+    padding-top: 20px;
+    padding-left: 70px;
+    border-radius: 12px;
+    margin-left: 100px;
+}
+.pdp1 {
+    background-color: var(--purple);
+    color: white;
+    width: 30%;
+    padding-bottom: 60px;
+    border-radius: 12px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.firstPdp{
+    border-radius: 50%;
+    width: 50px;
+}
+.first{
+    margin-left: 30px;
+    padding-top: 50px;
+}
+.name{
+    margin-left: 70px;
+    margin-top: -50px;
+    margin-bottom: 50px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#work{
+    color: var(--pink);
+}
+.des{
+    margin-top: -30px;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.pdp2 {
+    background-color: var(--purple);
+    color: white;
+    width: 30%;
+    padding-bottom: 60px;
+    border-radius: 12px;
+    margin-left: 550px;
+    margin-top: -250px;
+}
+.pdp3 {
+    background-color: var(--purple);
+    color: white;
+    width: 30%;
+    padding-bottom: 60px;
+    border-radius: 12px;
+    margin-left: 1050px;
+    margin-top: -250px;
+}
+.attribution{
+    margin-left: 35%;
+    margin-top: 50px;
+    font-size: 20px;
+}
